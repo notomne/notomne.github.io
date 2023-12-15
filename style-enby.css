@@ -1,0 +1,15 @@
+/*
+ * non-binary
+ *
+ * yellow #fcf434
+ * white  #ffffff
+ * purple #9c59d1
+ * black  #2c2c2c
+ */
+
+:root {
+	--bg: #2c2c2c;
+	--fg: #ffffff;
+	--accent-lc: #fcf434;
+	--accent-hc: #9c59d1;
+}

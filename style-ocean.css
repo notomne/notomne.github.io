@@ -1,0 +1,22 @@
+/*
+ * ocean: light version
+ * based on my pfp as of 2023 december
+ *
+ * https://coolors.co/palette/182341-3c6394-9feafe-eafdfe-e3f4bd-b4c7b8
+ *
+ * depths    #182341
+ * ocean     #3c6394
+ * sky       #9feafe
+ * off-white #eafdfe
+ * mint      #e3f4bd
+ * sage      #b4c7b8
+ */
+
+:root {
+	--fg: #182341;
+	--fg-faded: #3c6394;
+	--bg-faded: #9feafe;
+	--bg: #eafdfe;
+	--accent-lc: #e3f4bd;
+	--accent-hc: #b3c7b8;
+}
